@@ -1,0 +1,589 @@
+<resources>
+    <string name="app_name">Tokyo Guide</string>
+
+    <!-- Names of the categories -->
+    <string name="category_visit">Visit</string>
+    <string name="category_shopping">Shop</string>
+    <string name="category_fun">Fun</string>
+    <string name="category_eat">Eat</string>
+
+
+    <!-- Text for VISIT category-->
+    <string name="visit_item1_name">Tokyo Tower</string>
+    <string name="visit_item1_description">
+        \"Tokyo Tower (東京タワー Tōkyō tawā) is a communications and observation tower in the Shiba-koen
+        district of Minato, Tokyo, Japan. At 332.9 metres (1,092 ft), it is the second-tallest structure
+        in Japan. The structure is an Eiffel Tower-inspired lattice tower that is painted white and
+        international orange to comply with air safety regulations.
+        \n \n Built in 1958, the tower\'s main sources of income are tourism and antenna leasing.
+        Over 150 million people have visited the tower. FootTown, a four-story building directly
+        under the tower, houses museums, restaurants and shops. Departing from there, guests can visit
+        two observation decks. The two-story Main Observatory is at 150 metres (490 ft), while the
+        smaller Special Observatory reaches a height of 249.6 metres (819 ft).
+        \n \n The tower acts as a support structure for an antenna. Intended for television broadcasting,
+        radio antennas were installed in 1961, but the tower now broadcasts signals for Japanese media
+        outlets such as NHK, TBS and Fuji TV. Japan\'s planned digital television transition by July
+        2011 was problematic, however; Tokyo Tower\'s height, 332.9 m (1,092 ft) was not high enough
+        to support complete terrestrial digital broadcasting to the area. A taller digital broadcasting
+        tower, known as Tokyo Skytree, was completed on 29 February 2012. Every 5 years Tokyo Tower
+        is repainted. It takes 1 year to repaint it.
+        \n \n Since its completion in 1958, Tokyo Tower has become a prominent landmark in the city,
+        and frequently appears in media set in Tokyo.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="visit_item1_information">
+        Address:
+        \n 4 Chome-2-8 Shibakoen, Minato, Tokyo, 105-0011
+        \n \n Opening time:
+        \n Main Deck (150m) 9:00-23:00 (Last admission 22:30)
+        \n Top Deck Tour (250m) Every 15 minutes between 09:00 and 22:15 (Last Tour 22:15)
+        \n \n Official website:
+        \n https://www.tokyotower.co.jp/en.html
+    </string>
+
+    <string name="visit_item2_name">Tsukiji Market</string>
+    <string name="visit_item2_description">
+        \"The Tsukiji Market (築地市場 Tsukiji shijō), supervised by the Tokyo Metropolitan Central
+        Wholesale Market (東京都中央卸売市場 Tōkyō-to Chūō Oroshiuri Shijō) of the Tokyo Metropolitan
+        Bureau of Industrial and Labor Affairs, is the biggest wholesale fish and seafood market in
+        the world and also one of the largest wholesale food markets of any kind.
+        \n \n The market is located in Tsukiji in central Tokyo, between the Sumida River and the
+        upmarket Ginza shopping district. While the inner wholesale market has restricted access to
+        visitors, the outer retail market, restaurants, and associated restaurant supply stores remain
+        a major tourist attraction for both domestic and overseas visitors.[1][2]\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="visit_item2_information">
+        Address:
+        \n 5 Chome-2-1 Tsukiji, Chūō, Tokyo, 104-0045
+        \n \n Opening time:
+        \n Tuna Auction 3:30am - 6:00am (2 tours, you need to arrive early to reserve your spot)
+        \n 9:00am - 2:00pm (Many shops are closed on Sunday and Wednesday)
+        \n \n Official website:
+        \n http://www.tsukiji.or.jp/english/
+    </string>
+
+    <string name="visit_item3_name">Edo-Tokyo Museum</string>
+    <string name="visit_item3_description">
+        \"The Edo-Tokyo Museum (江戸東京博物館 Edo Tōkyō Hakubutsukan) is a museum of the history of
+        Tokyo during the Edo period.[2] It was established in 1993. The main features of the permanent
+        exhibitions are the life-size replica of the Nihonbashi, which was the bridge leading into
+        Edo; the Nakamuraza theatre; and scale models of towns and buildings from the Edo, Meiji and
+        Shōwa periods. The museum is adjacent to the Ryōgoku Kokugikan. It was designed by Kiyonori
+        Kikutake.[3] The distinctive elevated shape of the museum building is modelled after an old
+        storehouse in the kurazukuri style.
+        \n \n The Edo-Tokyo Open Air Architectural Museum is a branch of the Edo-Tokyo Museum.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="visit_item3_information">
+        Address:
+        \n 1 Chome-4-1 Yokoami, Sumida, Tokyo, 130-0015
+        \n \n Opening time:
+        \n 9:30 - 17:30 (Saturday：9:30 - 19:30)
+        \n ※ Entry is permitted until 30 minutes before closing
+        \n Closed on Monday.
+        \n When a national holiday or its substitute falls on a Monday, the Museum is OPEN and is
+        closed on the following day.
+        \n \n Official website:
+        \n http://www.edo-tokyo-museum.or.jp/en/
+    </string>
+
+    <string name="visit_item4_name">Meiji Shrine</string>
+    <string name="visit_item4_description">
+        \"Meiji Shrine (明治神宮 Meiji Jingū), located in Shibuya, Tokyo, is the Shinto shrine that is
+        dedicated to the deified spirits of Emperor Meiji and his wife, Empress Shōken.[1][2] The
+        shrine does not contain the emperor\'s grave, which is located at Fushimi-momoyama, south of Kyoto.
+        \n \n [&#8230;] Meiji Shrine is located in a forest that covers an area of 70 hectares (170
+        acres). This area is covered by an evergreen forest that consists of 120,000 trees of 365
+        different species, which were donated by people from all parts of Japan when the shrine was
+        established. The forest is visited by many as a recreation and relaxation area in the center
+        of Tokyo.[2] The entrance to the shrine complex leads through the Jingu Bashi bridge.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="visit_item4_information">
+        Address:
+        \n 1-1 Yoyogikamizonocho, Shibuya, Tokyo, 151-8557
+        \n \n Opening time:
+        \n Meiji Jingu opens with sunrise and closes with sunset, the opening hours change every
+        month. Please check the official website.
+        \n \n Official website:
+        \n http://www.meijijingu.or.jp/english/about/1.html
+    </string>
+
+    <string name="visit_item5_name">Tokyo National Museum</string>
+    <string name="visit_item5_description">
+        \"The Tokyo National Museum (東京国立博物館 Tōkyō Kokuritsu Hakubutsukan), or TNM, established in
+        1872, is the oldest Japanese national museum,[2] the largest art museum in Japan and one of
+        the largest art museums in the world. The museum collects, houses, and preserves a comprehensive
+        collection of art works and archaeological objects of Asia, focusing on Japan. The museum holds
+        over 110,000 objects, which includes 87 Japanese National Treasure holdings and 610 Important
+        Cultural Property holdings (as of July 2005). The museum also conducts research and organizes
+        educational events related to its collection.
+        \n \n The museum is located inside Ueno Park in Taitō, Tokyo. The facilities consist of the
+        Honkan (本館, Japanese Gallery), Tōyōkan (東洋館, Asian Gallery), Hyōkeikan (表慶館), Heiseikan
+        (平成館), Hōryū-ji Hōmotsukan (法隆寺宝物館, the Gallery of Hōryū-ji Treasures), as well as Shiryōkan
+        (資料館, the Research and Information Center), and other facilities. There are restaurants and
+        shops within the museum\'s premises, as well as outdoor exhibitions (including the Kuromon)
+        and a garden where visitors can enjoy seasonal views.
+        \n \n The museum\'s collections focus on ancient Japanese art and Asian art along the Silk
+        Road. There is also a large collection of Greco-Buddhist art.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="visit_item5_information">
+        Address:
+        \n 13-9 Uenokoen, Taitō, Tokyo, 110-8712
+        \n \n Opening time:
+        \n 9:30 - 17:00 (last admission at 16:30)
+        \n Open until 21:00 on Fridays and Saturdays.
+        \n Last admission 30 minutes before closing.
+        \n Closed on Mondays and year-end holidays.
+        \n (open on Mondays that fall on national holidays, in which case the museum is closed on following day)
+        \n \n Official website:
+        \n http://www.tnm.jp/?lang=en
+    </string>
+
+    <string name="visit_item6_name">Roppongi Hills</string>
+    <string name="visit_item6_description">
+        \"Roppongi Hills (六本木ヒルズ Roppongi Hiruzu) is a development project in Tokyo and one of
+        Japan\'s largest integrated property developments, located in the Roppongi district of Minato,
+        Tokyo. The architecture and use of the space is documented in the book Six Strata: Roppongi Hills Redefined.[3]
+        \n \n Constructed by building tycoon Minoru Mori, the mega-complex incorporates office space,
+        apartments, shops, restaurants, cafés, movie theatres, a museum, a hotel, a major TV studio,
+        an outdoor amphitheatre, and a few parks. The centerpiece is the 54-story Mori Tower. Mori\'s
+        stated vision was to build an integrated development where high-rise inner-urban communities
+        allow people to live, work, play, and shop in proximity to eliminate commuting time. He argued
+        that this would increase leisure time, quality of life, and benefit Japan\'s national competitiveness.
+        Seventeen years after the design\'s initial conception, the complex opened to the public on April 25, 2003.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="visit_item6_information">
+        Address:
+        \n 6 Chome-11-1 Roppongi, Minato, Tokyo, 106-6108
+        \n \n Opening time:
+        \n Varies depending on which part of Roppongi Hills you are planning to visit.
+        \n \n Official website:
+        \n http://www.roppongihills.com/en/
+    </string>
+
+
+    <!-- Text for SHOP category-->
+    <string name="shop_item1_name">Harajuku</string>
+    <string name="shop_item1_description">
+        \"Harajuku is known internationally as a center of Japanese youth culture and fashion.[2]
+        Shopping and dining options include many small, youth-oriented, independent boutiques and
+        cafés, but the neighborhood also attracts many larger international chain stores with high-end
+        luxury merchandisers extensively represented along Omotesando.
+        \n \n Harajuku Station on the JR East Yamanote Line and Meiji-jingumae \'Harajuku\' Station
+        served by the Tokyo Metro Chiyoda Line and Tokyo Metro Fukutoshin Line also act as gateways
+        to local attractions such as the Meiji Shrine, Yoyogi Park and Yoyogi National Gymnasium, making
+        Harajuku and its environs one of the most popular destinations in Tokyo for both domestic and
+        international tourists.\"
+        \n \n (Copyright text and image: Wikipedia, GoTokyo)
+    </string>
+    <string name="shop_item1_information">
+        Address:
+        \n \"Harajuku is the common name given to a geographic area spreading from Harajuku
+        Station to Omotesando, corresponding on official maps of Shibuya ward as Jingūmae 1 chōme to 4 chōme.
+        In popular reference, Harajuku also encompasses many smaller backstreets such as Takeshita
+        Street and Cat Street spreading from Sendagaya in the north to Shibuya in the south.\"
+        \n \n Opening time:
+        \n Most shops opens around 10:00am and closes around 7:00pm to 8:00pm.
+        \n \n Official website:
+        \n https://www.gotokyo.org/en/destinations/western-tokyo/harajuku/
+    </string>
+
+    <string name="shop_item2_name">Shibuya</string>
+    <string name="shop_item2_description">
+        \"Shibuya (渋谷区 Shibuya-ku), literally "Astringent Valley", is a special ward in Tokyo, Japan.
+        A major commercial and business centre, it houses the two busiest railway stations in the world,
+        Shinjuku Station (southern half) and Shibuya Station.
+        \n \n As of May 1, 2016, it has an estimated population of 221,801 and a population density
+        of 14,679.09 people per km2 (38,018.7/sq mi). The total area is 15.11 km2 (5.83 sq mi).
+        \n \n The name "Shibuya" is also used to refer to the shopping district which surrounds
+        Shibuya Station, one of Tokyo\'s busiest railway stations. This area is known as one of the
+        fashion centers of Japan, particularly for young people, and as a major nightlife area.\"
+        \n \n (Copyright text and image: Wikipedia, GoTokyo)
+    </string>
+    <string name="shop_item2_information">
+        Address:
+        \n All the area around Shibuya Station.
+        \n \n Opening time:
+        \n Most shops opens around 10:00am and closes around 7:00pm to 8:00pm.
+        \n \n Official website:
+        \n https://www.gotokyo.org/en/destinations/western-tokyo/shibuya/
+    </string>
+
+    <string name="shop_item3_name">Ginza</string>
+    <string name="shop_item3_description">
+        (Ginza)\"is a popular upscale shopping area of Tokyo, with numerous internationally
+        renowned department stores, boutiques, restaurants and coffeehouses located in its vicinity.
+        It is considered one of the most expensive, elegant, and luxurious streets in the world.
+        \n \n Ginza was a part of the old Kyobashi ward of Tokyo City, which, together with Nihonbashi and
+        Kanda, formed the core of Shitamachi[1], the original downtown center of Edo-Tokyo, before
+        the rise of newer secondary centers such as Shinjuku and Shibuya.
+        \n \n (Copyright text and image: Wikipedia, GoTokyo)
+    </string>
+    <string name="shop_item3_information">
+        Address:
+        \n \"Ginza is a district of Chūō, Tokyo, located south of Yaesu and Kyōbashi, west of
+        Tsukiji, east of Yūrakuchō and Uchisaiwaichō, and north of Shinbashi.\"
+        \n \n Opening time:
+        \n Most shops opens around 10:00am and closes around 7:00pm to 8:00pm.
+        \n \n Official website:
+        \n https://www.gotokyo.org/en/destinations/central-tokyo/ginza/
+    </string>
+
+    <string name="shop_item4_name">Shimokitazawa</string>
+    <string name="shop_item4_description">
+        \"Shimokitazawa (下北沢 Shimokitazawa) is a commercial and entertainment district in Setagaya,
+        Tokyo. Also known as "Shimokita", the neighbourhood is well known for the density of small
+        independent fashion retailers, cafes, theaters, bars and live music venues.\"
+        \n \"The neighbourhood is often compared with the backstreets of Ura-Harajuku and Koenji; smaller
+        shop units and restricted vehicular access has limited its appeal to larger domestic and
+        international fashion merchandisers, enabling independent retailers to survive.
+        \n [&#8230;]The neighbourhood has long been a center for stage theater and live music venues;
+        serves as a home to the historic Honda Gekijō theater and holds theatre festivals throughout
+        the year. With numerous cafes, secondhand and vintage fashion and recorded music outlets,
+        Shimokitazawa remains popular with students and followers of Japanese youth subcultures.[1]\"
+        \n \n (Copyright text and image: Wikipedia, GoTokyo)
+    </string>
+    <string name="shop_item4_information">
+        Address:
+        \n \"The district consists of the streets immediately surrounding Shimo-Kitazawa Station,
+        where the Odakyu Electric Railway and Keio Inokashira Lines intersect.\"
+        \n \n Opening time:
+        \n Most shops opens around 10:00am and closes around 7:00pm to 8:00pm.
+        \n \n Official website:
+        \n http://www.gotokyo.org/en/tourists/areas/areamap/shimokitazawa.html
+    </string>
+
+    <string name="shop_item5_name">Tokyu Hands</string>
+    <string name="shop_item5_description">
+        \"Tokyu Hands Inc., known as Tokyu Hands (東急ハンズ Tōkyū Hanzu), is a Japanese department
+        store. Tokyu Hands is part of the Tokyu Department Store (itself a member of the Tokyu Group), its
+        first store opened in Shibuya, Tokyo in 1976.[1] Tokyu Hands got its start as a DIY (Do-It-Yourself)
+        store, hence the logo with two hands, and the emphasis on crafts and materials for projects.
+        \n \n [&#8230;] Tokyu Hands focuses on hobby, home improvement and lifestyle products. At the
+        Shibuya flagship store, products include toys, games, novelty items, gift cards, gift wrap,
+        costumes, bicycles, travel products (such as luggage and camping gear), hobby materials,
+        household hardware, tools, do-it-yourself kits, pet supplies, office supplies and stationery;
+        calligraphy, painting, drawing supplies, furniture, lighting, home appliances, and
+        storage solutions.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="shop_item5_information">
+        Address:
+        \n Times Square Building 2-8F, 5-24-2 Sendagaya, Shibuya-ku, Tokyo, 151-0051
+        \n \n Opening time:
+        \n 10:00 - 20:00
+        \n \n Official website:
+        \n https://www.tokyu-hands.co.jp/en/list/shinjuku/
+    </string>
+
+    <string name="shop_item6_name">Don Quijote</string>
+    <string name="shop_item6_description">
+        \"Don Quijote (ドン・キホーテ Don Kihōte) is a discount chain store that has over 160 locations
+        throughout Japan, three stores in Hawaii and one in Singapore.[2][3] It carries a wide range
+        of products, from basic groceries to electronics to clothing. The store is well known in
+        Japan and is often referred to by its shortened name Donki (ドンキ). Distinctly, Don Quijote
+        tends to keep very late hours for Japanese retailing (to 3 or 5am, or even 24 hours) and it
+        packs its goods from ceiling to floor in a distinct merchandising strategy.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="shop_item6_information">
+        Address:
+        \n 28-6 Udagawa-cho, Shibuya-ku, Tokyo, 150-0042
+        \n \n Opening time:
+        \n Open 24/24h.
+        \n \n Official website:
+        \n http://www.donki.com/en/?pre=le
+    </string>
+
+
+    <!-- Text for FUN category-->
+    <string name="fun_item1_name">Odaiba</string>
+    <string name="fun_item1_description">
+        \"An ultramodern area for residents and businesses alike, the Odaiba district is your go-to place
+        for pleasure cruising, shopping and general seaside fun. The manmade island built in Tokyo Bay
+        was originally created by the Edo shogunate (1603-1867) to protect Tokyo from the threat of
+        marine attacks. Today it serves a very different purpose—as an entertainment hub for the
+        entire family. Set aside a full day for maximum enjoyment.\"
+        \n \n (Copyright text and image: Wikipedia, GoTokyo)
+    </string>
+    <string name="fun_item1_information">
+        Address:
+        \n \"You can reach Odaiba on the Yurikamome Line at the stations of Odaiba-Kaihinkoen,
+        Daiba, Fune-no-Kagakukan, Telecom Center and Aomi. You can also get to the area from the
+        Rinkai Line\'s Tokyo Teleport Station. To board the water bus, head to Odaiba Seaside
+        Park Pier, which is around five minutes from Daiba and Odaiba-kaihinkoen stations. \"
+        \n \n Opening time:
+        \n Varies depending on which part of Odaiba you are planning to visit.
+        \n \n Official website:
+        \n https://www.gotokyo.org/en/destinations/southern-tokyo/odaiba/
+    </string>
+
+    <string name="fun_item2_name">Hanayashiki</string>
+    <string name="fun_item2_description">
+        \"Hanayashiki (浅草花やしき Asakusa hanayashiki) is an amusement park in Asakusa, Taitō,
+        Tokyo[1] that has operated since 1853. It is operated by Hanayashiki Co., Ltd., a
+        subsidiary of Bandai Namco Holdings. It is claimed to be the oldest amusement park in Japan.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="fun_item2_information">
+        Address:
+        \n 2-28-1 Asakusa Taito-ku Tokyo, 111-0032
+        \n \n Opening time:
+        \n 10:00 - 18:00
+        \n \n Official website:
+        \n https://www.hanayashiki.net/en
+    </string>
+
+    <string name="fun_item3_name">Tokyo Disneyland</string>
+    <string name="fun_item3_description">
+        \"Tokyo Disneyland (東京ディズニーランド Tōkyō Dizunīrando) is a 115-acre (47 ha) theme park at
+        the Tokyo Disney Resort in Urayasu, Chiba Prefecture, Japan, near Tokyo.[1] Its main gate is
+        directly adjacent to both Maihama Station and Tokyo Disneyland Station. It was the first Disney
+        park to be built outside the United States, and it opened on 15 April 1983. The park was constructed
+        by Walt Disney Imagineering in the same style as Disneyland in California and Magic Kingdom
+        in Florida.[1] It is owned by The Oriental Land Company, which licenses the theme from The Walt
+        Disney Company. Tokyo Disneyland and its companion park, Tokyo DisneySea, are the only Disney
+        parks not wholly or partly owned by the Walt Disney Company (however, Disney has creative control).
+        \n The park has seven themed areas: the World Bazaar; the four traditional Disney lands:
+        Adventureland, Westernland, Fantasyland and Tomorrowland; and two mini-lands: Critter Country
+        and Mickey\'s Toontown. Many of these areas mirror those in the original Disneyland as they are
+        based on American Disney films and fantasies. Fantasyland includes Peter Pan\'s Flight, Snow
+        White\'s Scary Adventures, Dumbo the Flying Elephant, based on Disney films and characters.[2]
+        The park is noted for its extensive open spaces, to accommodate the large crowds that visit
+        the park.[1] In 2013, Tokyo Disneyland hosted 17.2 million visitors, making it the world\'s
+        second-most visited theme park behind the Magic Kingdom at Walt Disney World Resort.[3]\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="fun_item3_information">
+        Address:
+        \n 1-1 Maihama, Urayasu, Chiba Prefecture, 279-0031
+        \n \n Opening time:
+        \n 8:00 - 22:00
+        \n \n Official website:
+        \n http://www.tokyodisneyresort.jp/en/tdl/
+    </string>
+
+    <string name="fun_item4_name">Ghibli Museum</string>
+    <string name="fun_item4_description">
+        \"The Ghibli Museum (三鷹の森ジブリ美術館 Mitaka no Mori Jiburi Bijutsukan, Mitaka Forest Ghibli
+        Museum) is a museum showcasing the work of the Japanese animation studio Studio Ghibli. It is
+        located in Inokashira Park in Mitaka, a western city of Tokyo, Japan. The museum combines
+        features of a children\'s museum, technology museum, and a fine arts museum, and is dedicated
+        to the art and technique of animation. Some features include a replica of the Catbus from My
+        Neighbor Totoro (1988), a café, bookstore, rooftop garden, and a theater for exclusive short
+        films by Studio Ghibli.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="fun_item4_information">
+        Address:
+        \n 1-1-83 Simorenjaku, Mitaka-shi, Tokyo, 181-0013
+        \n \n Opening time:
+        \n 10:00 - 18:00
+        \n Please note that all admission is by advance reservation only. No tickets are sold at the Museum.
+        \n \n Official website:
+        \n http://www.ghibli-museum.jp/en/
+    </string>
+
+    <string name="fun_item5_name">Miraikan</string>
+    <string name="fun_item5_description">
+        \"The National Museum of Emerging Science and Innovation (日本科学未来館 Nippon Kagaku
+        Mirai-kan), simply known as the Miraikan (未来館, literally \"Future Museum\"), is a museum
+        created by Japan\'s Science and Technology Agency.\"
+        \n \"Some highlights include real-time displays of data from a huge array of seismometers across
+        Japan which shows the country gently vibrating. The occasional earthquakes for which Japan is
+        noted show up as larger movements. Visitors can search the on-line database of recent earthquake activity.
+        \n A section of rock core taken across the Cretaceous–Paleogene boundary (K–T boundary) records a
+        major meteorite impact event that is believed to have led to the final demise of the dinosaurs.
+        Asimo, the Honda[1] robot is one of the star attractions along with the model maglev train.\"
+        \"Every year between three and six specially curated exhibitions are produced and shown, with
+        science and art often overlapping. They dealt with a wide range of topics from \"Toilet -
+        Human Waste and Earth\'s Future\" to the \"Making of the Tokyo Sky Tree\" and \"Terminator
+        Exhibition - Battle or Coexistence? Robots and Our Future\".[7] In 2012 the special exhibition
+        \"The Story of the End of the World: 73 Questions We Must Answer\" dealt with the Tohoku earthquake
+        and its aftermath.[8]
+        \n Multilingual staff conduct demonstrations about leading edge Japanese science.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="fun_item5_information">
+        Address:
+        \n 2-3-6 Aomi, Koto, Tokyo, 135-0064
+        \n \n Opening time:
+        \n 10:00 - 17:00 (Closed on Tuesday)
+        \n \n Official website:
+        \n http://www.miraikan.jst.go.jp/en/
+    </string>
+
+    <string name="fun_item6_name">Tokyo Dome City</string>
+    <string name="fun_item6_description">
+        \"Tokyo Dome City (東京ドームシティ Tōkyō Dōmu Shiti), referred to as Big Egg City before January
+        1, 2000, is an entertainment complex in Bunkyo, Tokyo, Japan.
+        \n It includes the world\'s largest roofed baseball stadium known as Tokyo Dome (nicknamed
+        \"Big Egg\"), an amusement park known as Tokyo Dome City Attractions (formerly Kōrakuen
+        Yūenchi), and Korakuen Hall. In May 2003, a spa resort known as LaQua opened for business near
+        Tokyo Dome City Attractions. It also hosts character shows for Toei Company\'s Toei Superheroes,
+        including the Kamen Rider and Super Sentai series.
+        \n The Tokyo Dome City contains the Tokyo Dome Hotel, a 43-story hotel that is easily
+        visible from the street and from the Tokyo Subway Suidobashi Station, which is only two blocks away.\"
+        \n \n (Copyright text and image: Wikipedia)
+    </string>
+    <string name="fun_item6_information">
+        Address:
+        \n 1 Chome-3-61 Koraku, Bunkyō, Tokyo, 112-0004
+        \n \n Opening time:
+        \n Varies depending on which part of Tokyo Dome City you are planning to visit.
+        \n \n Official website:
+        \n https://www.tokyo-dome.co.jp/en/tourists/
+    </string>
+
+
+    <!-- Text for EAT category-->
+    <string name="eat_item1_name">Maid Café</string>
+    <string name="eat_item1_description">
+        \"Maid cafés (メイド喫茶 / メイドカフェ Meido kissa / Meido kafe) are a subcategory of cosplay
+        restaurants found predominantly in Japan. In these cafés, waitresses dressed in maid costumes
+        act as servants, and treat customers as masters (and mistresses) in a private home, rather
+        than as café patrons. The first permanent[1] maid café, Cure Maid Café, was established in
+        Akihabara, Tokyo, Japan, in March 2001,[2] but maid cafés are becoming increasingly popular.\"
+        \n \"Most maid cafés offer menus similar to those of more typical cafés. Customers can
+        order coffee, other beverages, and a wide variety of entrées and desserts. However, in maid
+        cafés, waitresses will often decorate a customer\’s order with cute designs at his or her
+        table. Syrup can be used to decorate desserts, and omelette rice (オムライス Omu-raisu), a popular
+        entrée, is typically decorated using ketchup.\"
+        \n \n (Copyright text: Wikipedia / image: s.wsj.net/)
+    </string>
+    <string name="eat_item1_information">
+        Address:
+        \n Mitsuwa Bld. 4F - 7F, Sotokanda 1-11-4, Chiyoda, Tokyo, 101-0021
+        \n \n Opening time:
+        \n Weekday  11:30～22:00 / Saturday  10:30～22:00
+        \n Sunday and Holiday  10:30～22:00
+        \n Last Order  FOOD 20:50 / DRINKS 21:20
+        \n \n Official website:
+        \n http://www.cafe-athome.com/en/
+    </string>
+
+    <string name="eat_item2_name">Kichijoji Yurei</string>
+    <string name="eat_item2_description">
+        \"Japan is known for the country of horror after producing such movies as the Ring or the
+        Grudge so why not to throw yourself into a scary bit in Japan! Well, the ghost restaurant is
+        not as scary as those movies but more like a fun place! The restaurant has unique ghost themed
+        menu, ghost like dressed waiters and few surprises might pop up while you dine!\"
+        \n \n (Copyright text: jw-webmagazine.com / image: tofugu.com)
+    </string>
+    <string name="eat_item2_information">
+        Address:
+        \n 1–8–11 Kichijoji Minamicho, Musashino-city, Tokyo, 180-0003
+        \n \n Opening time:
+        \n 17:00 - 01:00
+        \n \n Official website:
+        \n http://www.yurei.jp/ (Japanese)
+    </string>
+
+    <string name="eat_item3_name">Robot Restaurant</string>
+    <string name="eat_item3_description">
+        \"When in Tokyo, don\'t miss an evening of awesome entertainment at the Robot Restaurant.
+        Located in the Kabukicho red-light district, Robot Restaurant puts on an eclectic 1-hour cabaret
+        show with performances full of flashing lights, taiko drums, and techno music. Your entry ticket
+        includes one drink of your choice to sip on as you experience a fun, and sometimes campy,
+        neon-lit show where glitzy ladies dance with dinosaurs, ninjas, a giant panda, and (of course)
+        robots.\"
+        \n \n (Copyright text: viator.com / image: travelcaffeine.com)</string>
+    <string name="eat_item3_information">
+        Address:
+        \n 1-7-1 Kabukicho Shinjuku-ku Tokyo, Japan, 160-0021
+        \n \n Opening time:
+        \n 16:00 - 23:00
+        \n \n Official website:
+        \n http://www.shinjuku-robot.com/pc/index.php?lng=en
+    </string>
+
+    <string name="eat_item4_name">Kawaii Monster Cafe</string>
+    <string name="eat_item4_description">
+        \"Kawaii Monster Cafe in Harajuku, Tokyo, opened in the summer of 2015 under the concept of
+        \"swallowing everything around the fashion mecca like a monster\" and represents a
+        distinctively new approach to pop-art and dining. The cafe was born as a creation of the widely
+        acclaimed modern art designer Sebastian Masuda who fascinates the world with his peculiar take
+        on \"kawaii\" (cuteness). Having previously worked on the music videos of the famous J-pop
+        star Kyary Pamyu Pamyu, Sebastian Masuda incorporated his edgy vision of art and fashion into
+        a flashy colourful interior that suits the concept of engulfing the trendiest urban cultures
+        in Tokyo.
+        \n \n Visitors enter the Kawaii Monster Cafe through the mouth of a giant monster and find
+        themselves inside a gaudy space of glitter, clashing colours and unique design. Lovers of
+        contemporary pop-art will be thrilled to discover edgy installations such as the cake-shaped
+        merry-go-round, and will continue to explore the different areas of this crazy cafe:
+        \n - Mushroom Disco, a space in which giant poisonous mushrooms coexist with colourful
+        candies as part of the interior.
+        \n - Milk Stand, where cute but slightly twisted figures of animals drink from baby milk
+        bottles.
+        \n - Bar Experiment, the deep sea world surrounded by glowing jellyfish tentacles.
+        \n - Mel-Tea Room, where ants lead the guests to melting ice cream and sweets.
+
+        \n \n The food and drinks served here complement the wacky interior and guarantee that guests
+        will have an unforgettable dining experience of fashion and art.\"
+        \n \n (Copyright text: govoyagin.com / image: timeout.com)
+    </string>
+    <string name="eat_item4_information">
+        Address:
+        \n 4-31-10 Jingumae, Shibuya-ku, Tokyo 150-0001
+        \n \n Opening time:
+        \n 11:30 - 22:30 (last entry 21:30)
+        \n \n Official website:
+        \n http://kawaiimonster.jp/
+        \n \n Official ticket reservation website:
+        \n https://www.govoyagin.com/activities/japan-tokyo-reservation-for-kawaii-monster-cafe-official-partner/4138
+        </string>
+
+    <string name="eat_item5_name">Ninja Restaurant</string>
+    <string name="eat_item5_description">
+        \"Visit this ninja-themed izakaya in present day Tokyo which lets you experience dining inside
+        a ninja mansion, complete with the perfect Japanese ninja era atmosphere. The restaurant\'s
+        interior involve cave-like passageways, bridges, ponds, and gardens. Enjoy not only their menu
+        and alcoholic beverages, but also the hospitality and good customer service of their waiters
+        dressed in ninja attires. Every customer will surely feel being back to the former centuries
+        as the ninja waiters cater to their orders while role-playing as actual ninjas by the sides.
+        \n NINJA AKASAKA\'s feature their signature ninja-inspired courses which include Shuriken
+        star-blades grissini, Mont Blanc of vegetables, chicken fritter ninja-style, special stone-boiled
+        soup, etc. Being famous for a very tourist-friendly restaurant in Tokyo, they also have limited
+        courses such as vegetarian course, and pork and alcohol-free courses for customers who have
+        limited food choices, but would still like to enjoy the ninja experience at NINJA AKASAKA.\"
+        \n \n (Copyright text and image: triplelights.com)
+    </string>
+    <string name="eat_item5_information">
+        Address:
+        \n Tokyu plaza Akasaka 1F, 2-14-3, Nagatacho, Chiyoda-ku, Tokyo, 100-0014
+        \n \n Opening time:
+        \n Monday to Saturday 17:00 - 1:00 (Door closes at 22:30)
+        \n Sunday and Holiday: 17:00 - 23:00 (Door closes at 21:45)
+        \n \n Official website:
+        \n http://www.ninjaakasaka.com/
+    </string>
+
+    <string name="eat_item6_name">Kyomachi Koishigure</string>
+    <string name="eat_item6_description">
+        \"Visiting Tokyo but you can\'t quite make it out to Kyoto? Kyomachi Koi Shigure is an
+        izakaya where the theme is the town of Kyoto! As soon as you enter, there\'s a replica bridge
+        you can cross to step into the old capital of Japan. All around you are beautiful fall leaves
+        (since it\'s said to be the best season in Kyoto), and the red bridge looks beautiful in the
+        autumnal atmosphere—it\'s also a popular photo spot!
+        \n In another area, you can see water running down like a spring, creating a small river.
+        \n Walking around the izakaya really feels like exploring the historic back alleys of
+        Kyoto! Maybe this one isn\'t so much \"weird\" as \"cool\", but surely visiting Kyoto in
+        Tokyo is a bit of an odd (if awesome) choice.\"
+        \n \n (Copyright text: allabout-japan.com / image: tokyogirlsupdate.com)
+    </string>
+    <string name="eat_item6_information">
+        Address:
+        \n Musashino Building 6F, 3-27-10, Shinjuku, Shinjuku-ku, Tokyo, 160-0022
+        \n \n Opening time:
+        \n Monday and Sunday: 17:00 - 23:00
+        \n Tuesday to Saturday, and before holiday: 17:00 - 4:00
+        \n \n Official website:
+        \n https://www.dd-holdings.jp/shops/kyomachikoisigure/shinjyuku (Japanese)
+    </string>
+
+
+</resources>
